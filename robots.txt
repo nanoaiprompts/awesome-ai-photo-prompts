@@ -1,0 +1,5 @@
+User-agent: *
+
+Allow: /
+
+Sitemap: https://nanoaiprompts.github.io/awesome-ai-photo-prompts/sitemap.xml
